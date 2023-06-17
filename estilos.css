@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Khand:wght@600&family=Rajdhani:wght@500&display=swap');
+
+* {   text-align: center;}
+
+h1 { font-family: 'Chakra Petch', sans-serif;
+    font-size: 40px;
+}
+
+h2  { font-family: 'Rajdhani', sans-serif;
+    font-size: 30px;
+}
+
+h3 { font-family: 'Khand', sans-serif;
+    font-size: 25px;
+}
+
+p { font-size: 20px;   }
+
+body { background-color: lightgray;}
+
+.img2   { height: 300px;
+        width: 300px;  }
+
+        #fotoautor { height: 300px;
+            width: 300px;  }
+
+       
+ 
+   .col  {  background-color: aquamarine;
+            width: 300px;
+             }
+
+             input { padding: 5px; }
+
+
+            form { display: flex; 
+                     flex-direction: column;
+                     
+                  gap: 7px;}
+
+
+             button { padding: 5px; background-color: cadetblue; }
+
+             button:hover{background-color: rgb(0, 82, 85);}
+
+
+
+            
+    
+
